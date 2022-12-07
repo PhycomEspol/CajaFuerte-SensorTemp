@@ -1,2 +1,7 @@
 # CajaFuerte-SensorTemp
-integrantes del GRUPO 1:
+Integrantes del GRUPO 1:
+ -Kenyi Triviño
+ -Jose Baidal
+ -Jordan Aguilar
+ -Allison Palma
+ -Eduardo Sanchez
