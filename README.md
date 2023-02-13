@@ -41,7 +41,7 @@ Además, de notificar y alertar al usuario sobre las infracciones cometidas en s
 # Mejoras y Posibles 
 ![image](https://user-images.githubusercontent.com/119824390/217290559-2c8b07df-6729-4034-bd74-52d80ea63014.png)
 # Anexo
- #Simulacion en Tinkercad
+ # Simulacion en Tinkercad
  ![image](https://user-images.githubusercontent.com/119824390/218364924-660a2c22-29a0-4e39-90bc-3c3172fdfee2.png)
 
 
